@@ -1,0 +1,58 @@
+{
+  "version": "9",
+  "items": {
+    "e80a5e50c4f5654e118886434260b2f3": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains/kotlin-styled/5.2.1-pre.148-kotlin-1.4.21/3b6b7bb2673bbdbc4f22eacade33ba6b8a4c69ad/kotlin-styled-5.2.1-pre.148-kotlin-1.4.21.jar",
+      "target": "kotlin-wrappers-kotlin-styled-jsLegacy/1.0.0-SNAPSHOT"
+    },
+    "89bb3071e33639ee506c4a58c27288ae": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains/kotlin-react-dom/17.0.1-pre.148-kotlin-1.4.21/2e028945d4b98626a6ae277b5657f57b9c8b8575/kotlin-react-dom-17.0.1-pre.148-kotlin-1.4.21.jar",
+      "target": "kotlin-wrappers-kotlin-react-dom-jsLegacy/1.0.0-SNAPSHOT"
+    },
+    "4c98d8e0689c1d6dcd3ae20eb51fb03c": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains/kotlin-react/17.0.1-pre.148-kotlin-1.4.21/31ae85cd80a5b92b9662bf1e9973f07fa51b713a/kotlin-react-17.0.1-pre.148-kotlin-1.4.21.jar",
+      "target": "kotlin-wrappers-kotlin-react-jsLegacy/1.0.0-SNAPSHOT"
+    },
+    "7c23fcee9b96cc178b0f3e4f20614d44": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains/kotlin-extensions/1.0.1-pre.148-kotlin-1.4.21/88c047bb215c3489a9dee35991438d78a7d59e7d/kotlin-extensions-1.0.1-pre.148-kotlin-1.4.21.jar",
+      "target": "kotlin-wrappers-kotlin-extensions-jsLegacy/1.0.1-pre.148-kotlin-1.4.21"
+    },
+    "1881d28bfb9c5264bbe5729e78198cdf": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.4.21/326d0e69ce1377dfd50256432061ad80d5463091/kotlin-stdlib-js-1.4.21.jar",
+      "target": "kotlin/1.4.21"
+    },
+    "7264dbc16b8b6a4759d414d2720bb4c9": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.21/7f48a062aa4b53215998780f7c245a4276828e1d/kotlin-stdlib-common-1.4.21.jar"
+    },
+    "16a1c23967b3a0781ab5d42281c72be5": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.4.2/13cae16ca0d884b413a04daa062e4de337f99e58/kotlinx-coroutines-core-jslegacy-1.4.2.jar",
+      "target": "kotlinx-coroutines-core/1.4.2"
+    },
+    "ca3b3f18d8a8a3654b100c320f8f8c6d": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-js/0.14.4/463b650e391eabd0c082969779b5243e05bd7d7/atomicfu-jslegacy-0.14.4.jar",
+      "target": "kotlinx-atomicfu/0.14.4"
+    },
+    "97d71e7777d60ce52b440d742431cb6f": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-js/0.7.2/baf7e494e549776d0ae3e0ee225804a513f5dc26/kotlinx-html-jslegacy-0.7.2.jar",
+      "target": "kotlinx-html-js/0.7.2"
+    },
+    "b0ddeccf41faf7a4b8cd67f3ef04984f": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains/kotlin-css-js/1.0.0-pre.148-kotlin-1.4.21/30dc0ed27fcef2cbbb252ae5206ed4839d6dd25c/kotlin-css-jslegacy-1.0-SNAPSHOT.jar",
+      "target": "kotlin-css/1.0.0-pre.148-kotlin-1.4.21"
+    },
+    "e9e9cc5d29917e56e6d6411ee412a67c": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.4.10/d7daeb8bc2a9cc872284d1aba70e19950cf0ecae/kotlin-test-js-runner-1.4.10.jar",
+      "target": "kotlin-test-js-runner/1.4.10"
+    },
+    "6651c5242305eafcd0177bee2f4d6b35": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.4.10/ccbf137a68302ed563bafb80d875f636b251d838/kotlin-test-js-1.4.10.jar",
+      "target": "kotlin-test/1.4.10"
+    },
+    "a01dc3d4ec43a41f4cd9a9e765b6fa0d": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-common/1.4.10/505c602601309cd1694a369aacb6df4dcf5c9a4/kotlin-test-common-1.4.10.jar"
+    },
+    "73f6e8a1718945224d91c3c22cb6841a": {
+      "src": "/Users/chander/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-annotations-common/1.4.10/668f215c80a2a9f579c6c5c56a174c3b4299fb5c/kotlin-test-annotations-common-1.4.10.jar"
+    }
+  }
+}

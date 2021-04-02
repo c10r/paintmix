@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "paintmix",
+    "public": "build/distributions/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
