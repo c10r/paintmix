@@ -5,10 +5,8 @@
 firebase deploy --only hosting:paintmix
 ```
 
-# Features
+# TODO Features
 
-1. Go back to level maker from level
+1. Ads?
 
-2. Ads?
-
-3. Auto-solve any level
+2. Auto-solve any level
