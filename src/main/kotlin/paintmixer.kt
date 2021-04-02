@@ -20,13 +20,13 @@ private const val BACKEND_URL = "https://us-central1-bored-games-io.cloudfunctio
 
 val paintMixer = functionalComponent<PaintProps> { _ ->
     val (selectedColor, setSelectedColor) = useState<Color?>(null)
-    val (isReady, setIsReady) = useState(false)
+    val (isReady, setIsReady) = useState(true)
     val (isSolved, setIsSolved) = useState(false)
     val (numTestTubes, setNumTestTubes) = useState(START_TUBES)
     val (start, setStart) = useState<Int?>(null)
     val (end, setEnd) = useState<Int?>(null)
     val (level, setLevel) = useState(0)
-    val (isCustomLevel, setIsCustomLevel) = useState(true)
+    val (isCustomLevel, setIsCustomLevel) = useState(false)
 
     // Original configuration of the tubes
     // Once play has started, resetting reverts tubes to originalTubes
@@ -105,7 +105,8 @@ val paintMixer = functionalComponent<PaintProps> { _ ->
                 }
                 clickDeleteSetting = {
                     GlobalScope.launch {
-                        localStorage.removeItem(LEVEL_KEY)
+                        localStorage[LEVEL_KEY] = "1"
+                        setLevel(1)
                     }
                 }
                 clickAddTube = {
