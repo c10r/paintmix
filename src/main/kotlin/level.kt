@@ -14,7 +14,7 @@ data class Level(val tubes: Array<Array<String>>) {
                     "GR", "GREEN" -> Color.green
                     "C", "CYAN" -> Color.cyan
                     "B", "BLUE" -> Color.blue
-                    "PURPLE" -> Color.purple
+                    "PR", "PURPLE" -> Color.purple
                     "G", "GREY" -> Color.grey
                     else -> Color.white
                 }
